@@ -19,5 +19,3 @@ Git is a version control system for tracking changes in computer files and coord
 
 ## GitHub
 GitHub is a web based hosting service for version control using git.
-
-[I'm an inline-style link](https://www.google.com)
